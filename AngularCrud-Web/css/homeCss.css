@@ -1,0 +1,44 @@
+.headerClass{
+    border: 1px solid black;
+    width: 1350px;
+    height: 150px;
+    margin: 10px;
+    font-size: 40px;
+    text-align: center;align-content: center;
+    color: rebeccapurple;
+    font-style: oblique;
+    background-color: darkorange;
+    
+}
+
+.operationClass{
+    border: 1px solid black;
+    width: 250px;
+    height: 455px;
+    float: left; 
+    margin: 10px;
+    font-size: 30px;
+    text-align: center;
+    font-style: oblique;
+    padding-top: 70px;
+    background-color: chartreuse;
+}
+
+.viewClass{
+    
+    border: 1px solid black;
+    width: 1075px;
+    height: 455px;
+    float: right;
+    margin: 10px;    
+    font-style: italic;    
+    background-color:darksalmon;
+    
+}
+.indexOperation{
+    background-color: darkgoldenrod;
+    
+}/*
+#v101:hover{
+    background-color:aqua;
+}*/

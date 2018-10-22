@@ -1,0 +1,17 @@
+<form class="form-row" id="addStudentID">
+    <div class="form-group col-md-6">
+       <input type="text" class="form-control" placeholder="Name" ng-model="student.name"> 
+    </div>
+    <div class="form-group col-md-6">
+       <input type="text" class="form-control" placeholder="Address" ng-model="student.address"> 
+    </div>
+</form>
+<div class="row" id="buttonClass">
+    <div class="col-md-4">
+       <input type="button" class="btn btn-success btn-lg btn-block" value="Save Student" ng-click="addStudents(student)" ui-sref="student">
+    </div>
+    <div class="col-md-4">
+        <input type="button" class="btn btn-info btn-lg btn-block" value="Back"
+               ui-sref="student">
+     </div>
+</div>
