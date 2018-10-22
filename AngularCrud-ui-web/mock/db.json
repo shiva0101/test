@@ -1,0 +1,8 @@
+{
+    "Student":[
+        {"rno":101, "name":"Shiva Narune", "address":"Pune"},
+        {"rno":102, "name":"Swapnil Birajdar", "address":"Swargate"},
+        {"rno":103, "name":"Shishir Allimore", "address":"Hinjewadi"},
+        {"rno":104, "name":"Yogesh Ghotekar", "address":"pune"}
+    ]   
+}
